@@ -1,6 +1,6 @@
 # Tomatoes-Plants-diseases-detection-video
 <p align="center">
-<video src="Tomate_Plant_leaf_disease_detect.mp4?raw=True" autoplay>
+<video src="Tomate_Plant_leaf_disease_detect.mp4?raw=True" autoplay/>
 </p>
 Ce projet permet de faire une prediction sur d'eventuelle maladie de la plante de Tomate. la prediction a ete faite sur un dataset issue du site ***Kaggle*** plus precisement le dataset de plant Village.
 <br>
