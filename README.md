@@ -14,4 +14,4 @@ Le projet est subdiviser en 3 parties a savoir:
 Le modele utilisé pour notre prediction est un modele classification par Random Forest (Foret aleatoire)
 <br>
 
-Pour tout besoin du code d'un projet veuillez me contactez: ***jocelynmarceltoe@gmail.com***
+Pour tout besoin du code d'un de mes projets privé veuillez me contactez: ***jocelynmarceltoe@gmail.com***. J'appelle projet privé tout projet que vous ne verrai que la video de presentation
